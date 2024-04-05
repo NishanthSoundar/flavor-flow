@@ -1,0 +1,1 @@
+Flavor Flow is your go-to destination for delicious recipes and easy cooking instructions. With a diverse range of dishes, clear step-by-step guidance, and the option to contribute your own recipes, Flavor Flow makes cooking a joy. Simply clone the repository, explore recipes, and start cooking today!
